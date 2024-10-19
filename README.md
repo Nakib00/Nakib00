@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋I'm Nakibul Islam</h1>
-<h3 align="center">A passionate Developer from Bangladesh</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on:<br>Napver Laravel project<br><br>👯 I’m looking to collaborate on:<br>Open-source projects and other developers' repos to update and contribute<br><br>🤝 I’m looking for help with:<br>AI, ML, and deep learning projects<br><br>🌱 I’m currently learning:<br>AI, machine learning, and deep learning<br><br>💬 Ask me about:<br>Web development, Laravel, AI, and new project ideas<br><br>⚡ Fun fact:<br>I love developing new ideas and trying out new things!
