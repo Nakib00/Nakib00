@@ -4,6 +4,7 @@
 I'm a Software Engineer with a strong background in web development, machine learning, and hardware integration. I have experience building scalable solutions in various frameworks like Laravel, Django, and Flask. My projects range from microfinance platforms to ecommerce websites, reflecting my passion for solving real-world problems through technology.
 
 With a knack for innovation and collaboration, I’m always eager to learn and contribute to impactful projects. Let’s connect to explore opportunities in tech and innovation!
+<br><br>
 🔭 I’m currently working on:<br>Napver Laravel project<br><br>👯 I’m looking to collaborate on:<br>Open-source projects and other developers' repos to update and contribute<br><br>🤝 I’m looking for help with:<br>AI, ML, and deep learning projects<br><br>🌱 I’m currently learning:<br>AI, machine learning, and deep learning<br><br>💬 Ask me about:<br>Web development, Laravel, AI, and new project ideas<br><br>⚡ Fun fact:<br>I love developing new ideas and trying out new things!
 
 
