@@ -17,6 +17,10 @@
 
 </div>
 
+### GitHub Activity
+[![Nakib00's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Nakib00&theme=react&hide_border=true&bg_color=0d1117&color=bb86fc&line=6200ea&point=bb86fc&area=true)](https://github.com/Nakib00)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nakib00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
