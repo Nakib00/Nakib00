@@ -16,10 +16,10 @@ I am a software engineer and tech entrepreneur passionate about crafting technol
 
 I thrive on leading innovative teams, mentoring students in STEM, and driving impactful change through project-based learning and automation.
 
-- 🔭 **Currently focused on:** Building robust web architectures (Laravel/Napver) and leading AI/robotics initiatives.
-- 🌱 **Actively learning:** Advanced Computer Vision, Deep Learning, and scalable system architecture.
-- 🤝 **Open to collaborate on:** Open-source AI models, STEM education tech, and hardware-software integration.
-- 💬 **Ask me about:** Web Development (Laravel, Django), Machine Learning, Arduino/Raspberry Pi, and scaling tech startups.
+- **Currently focused on:** Building robust web architectures (Laravel/Napver) and leading AI/robotics initiatives.
+- **Actively learning:** Advanced Computer Vision, Deep Learning, and scalable system architecture.
+- **Open to collaborate on:** Open-source AI models, STEM education tech, and hardware-software integration.
+- **Ask me about:** Web Development (Laravel, Django), Machine Learning, Arduino/Raspberry Pi, and scaling tech startups.
 
 ---
 
@@ -32,7 +32,7 @@ I thrive on leading innovative teams, mentoring students in STEM, and driving im
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Web & Mobile Frameworks
+### Web & Mobile Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -40,14 +40,14 @@ I thrive on leading innovative teams, mentoring students in STEM, and driving im
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🤖 AI, Data & Machine Learning
+### AI, Data & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-### ⚙️ Hardware, Databases & Tools
+### Hardware, Databases & Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,7 +57,7 @@ I thrive on leading innovative teams, mentoring students in STEM, and driving im
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nakib00&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
