@@ -1,59 +1,71 @@
 <div align="center">
-  <h1>Hi there, I'm Nakibul Islam 👋</h1>
-  <h3>Software Engineer | AI & Robotics Enthusiast | Tech Educator</h3>
-  
+  <h1>Hi, I'm Nakibul Islam 👋</h1>
+  <h3>Software Engineer | IoT & Robotics | Founder, ZAN Tech</h3>
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakibulislam00/)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nakibulislam)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nakibulislam0/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nakibulislam00/)
+  [![Website](https://img.shields.io/badge/ZAN_Tech-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zantechbd.com)
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a software engineer and tech entrepreneur passionate about crafting technology-driven solutions to real-world challenges. With a strong background in **web development**, **machine learning**, and **hardware integration**, I specialize in building projects that range from advanced enterprise platforms to hands-on educational robotics. 
+I'm a software engineer working at the intersection of backend systems, IoT, and applied ML — currently a **Junior IoT Engineer (Testing & QA) at Trustaira Limited**, and pursuing an **MSc in Software Engineering at Independent University Bangladesh (IUB)** on top of a CSE background.
 
-I thrive on leading innovative teams, mentoring students in STEM, and driving impactful change through project-based learning and automation.
+I'm also the **founder of ZAN Tech**, a Dhaka-based robotics and STEM education company (courses, kits, and *Project Uddipon* — free nationwide STEM workshops), and I'm building **Punosristi**, an AI-powered reverse vending machine system for plastic waste recovery in Bangladesh.
 
-- **Currently focused on:** Building robust web architectures (Laravel/Napver) and leading AI/robotics initiatives.
-- **Actively learning:** Advanced Computer Vision, Deep Learning, and scalable system architecture.
-- **Open to collaborate on:** Open-source AI models, STEM education tech, and hardware-software integration.
-- **Ask me about:** Web Development (Laravel, Django), Machine Learning, Arduino/Raspberry Pi, and scaling tech startups.
+-  **Currently building:** Punosristi — a Raspberry Pi 4B + YOLOv8n reverse vending machine, with a Fastify/PostgreSQL/Redis backend and React Native + Next.js apps
+-  **Currently studying:** Software Engineering (MSc), scalable backend architecture, applied computer vision
+-  **Founder:** [ZAN Tech](https://zantechbd.com) — robotics/STEM education, kits, and free nationwide workshops (Project Uddipon)
+-  **Research:** Co-author on peer-reviewed papers, including a Q1 Scopus-indexed journal and IEEE conference publications; published datasets **BRADS** and **BRWDS**
+-  **Ask me about:** Node.js/Fastify backends, IoT protocols (MQTT/HTTP/CoAP), React Native, and running a bootstrapped edtech startup in Bangladesh
 
 ---
 
-## Technical Arsenal
+## Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Web & Mobile Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**Frontend & Mobile**
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### AI, Data & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-
-### Hardware, Databases & Tools
+**IoT & Hardware**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**AI / ML & Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## Featured Work
+
+| Project | Description |
+|---|---|
+|  **Punosristi (EcoLoop BD)** | AI-powered reverse vending machine for PET bottle recovery — Raspberry Pi 4B, YOLOv8n, Fastify/PostgreSQL/Redis backend, React Native + Next.js apps |
+|  **ZAN Tech** | Robotics/STEM education company for KG–Class 12 — curriculum, kits, and B2B school partnerships |
+| **Project Uddipon** | Free nationwide STEM workshop initiative under ZAN Tech |
+| **TransitFlow** | Women/student-centric public transport app with a bus-tracking hardware prototype |
+| **Trainer Board** | Multi-sensor ESP32/Arduino trainer board with a companion block-coding app for kids |
 
 ---
 
@@ -78,6 +90,7 @@ I thrive on leading innovative teams, mentoring students in STEM, and driving im
 </div>
 
 ---
+
 <div align="center">
   <p><img src="https://visitcount.itsvg.in/api?id=Nakib00&icon=0&color=0" alt="Profile Views"></p>
 </div>
