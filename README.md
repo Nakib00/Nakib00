@@ -13,15 +13,15 @@
 
 ## About Me
 
-I'm a software engineer working at the intersection of backend systems, IoT, and applied ML — currently a **Junior IoT Engineer (Testing & QA) at Trustaira Limited**, and pursuing an **MSc in Software Engineering at Independent University Bangladesh (IUB)** on top of a CSE background.
+I'm a software engineer working at the intersection of backend systems, IoT, and applied ML — pursuing an **MSc in Software Engineering at Independent University Bangladesh (IUB)** on top of a CSE background.
 
 I'm also the **founder of ZAN Tech**, a Dhaka-based robotics and STEM education company (courses, kits, and *Project Uddipon* — free nationwide STEM workshops), and I'm building **Punosristi**, an AI-powered reverse vending machine system for plastic waste recovery in Bangladesh.
 
--  **Currently building:** Punosristi — a Raspberry Pi 4B + YOLOv8n reverse vending machine, with a Fastify/PostgreSQL/Redis backend and React Native + Next.js apps
--  **Currently studying:** Software Engineering (MSc), scalable backend architecture, applied computer vision
--  **Founder:** [ZAN Tech](https://zantechbd.com) — robotics/STEM education, kits, and free nationwide workshops (Project Uddipon)
--  **Research:** Co-author on peer-reviewed papers, including a Q1 Scopus-indexed journal and IEEE conference publications; published datasets **BRADS** and **BRWDS**
--  **Ask me about:** Node.js/Fastify backends, IoT protocols (MQTT/HTTP/CoAP), React Native, and running a bootstrapped edtech startup in Bangladesh
+- 🔭 **Currently building:** Punosristi — a Raspberry Pi 4B + YOLOv8n reverse vending machine, with a Fastify/PostgreSQL/Redis backend and React Native + Next.js apps
+- 🌱 **Currently studying:** Software Engineering (MSc), scalable backend architecture, applied computer vision
+- 🚀 **Founder:** [ZAN Tech](https://zantechbd.com) — robotics/STEM education, kits, and free nationwide workshops (Project Uddipon)
+- 📝 **Research:** Co-author on peer-reviewed papers, including a Q1 Scopus-indexed journal and IEEE conference publications; published datasets **BRADS** and **BRWDS**
+- 💬 **Ask me about:** Node.js/Fastify backends, IoT protocols (MQTT/HTTP/CoAP), React Native, and running a bootstrapped edtech startup in Bangladesh
 
 ---
 
@@ -61,11 +61,11 @@ I'm also the **founder of ZAN Tech**, a Dhaka-based robotics and STEM education 
 
 | Project | Description |
 |---|---|
-|  **Punosristi (EcoLoop BD)** | AI-powered reverse vending machine for PET bottle recovery — Raspberry Pi 4B, YOLOv8n, Fastify/PostgreSQL/Redis backend, React Native + Next.js apps |
-|  **ZAN Tech** | Robotics/STEM education company for KG–Class 12 — curriculum, kits, and B2B school partnerships |
-| **Project Uddipon** | Free nationwide STEM workshop initiative under ZAN Tech |
-| **TransitFlow** | Women/student-centric public transport app with a bus-tracking hardware prototype |
-| **Trainer Board** | Multi-sensor ESP32/Arduino trainer board with a companion block-coding app for kids |
+| 🥤 **Punosristi (EcoLoop BD)** | AI-powered reverse vending machine for PET bottle recovery — Raspberry Pi 4B, YOLOv8n, Fastify/PostgreSQL/Redis backend, React Native + Next.js apps |
+| 🎓 **ZAN Tech** | Robotics/STEM education company for KG–Class 12 — curriculum, kits, and B2B school partnerships |
+| 🌱 **Project Uddipon** | Free nationwide STEM workshop initiative under ZAN Tech |
+| 🚌 **TransitFlow** | Women/student-centric public transport app with a bus-tracking hardware prototype |
+| 🤖 **Trainer Board** | Multi-sensor ESP32/Arduino trainer board with a companion block-coding app for kids |
 
 ---
 
